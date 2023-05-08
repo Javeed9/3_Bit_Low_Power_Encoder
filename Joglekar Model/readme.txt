@@ -1,0 +1,2 @@
+Joglekar_Resistance_Switch_Memristor_Model
+Copy files to your LTspice directory
